@@ -12,13 +12,13 @@ By the end of the workshop, the attendees should be able to take a dataset and b
 
 The following steps need to be followed to understand how to do data analysis/data analytics
 
-1. **Introduction** \- "I think, therefore I am"
+**Introduction** \- "I think, therefore I am"
 * What is data analysis?
 * What type of questions can be answered?
 * Developing a hypothesis drive approach.
 * Making the case.
 
-2. **Acquire** \- "Data is the new oil"
+**Acquire** \- "Data is the new oil"
 * Download from an internal system
 * Obtained from client, or other 3rd party
 * Extracted from a web-based API
@@ -26,7 +26,7 @@ The following steps need to be followed to understand how to do data analysis/da
 * Extracted from a PDF file
 * Gathered manually and recorded
 
-3. **Refine** \- "Data is messy"
+**Refine** \- "Data is messy"
 * Missing e.g. Check for missing or incomplete data
 * Quality e.g. Check for duplicates, accuracy, unusual data
 * Parse e.g. extract year from date
@@ -40,21 +40,21 @@ The following steps need to be followed to understand how to do data analysis/da
 * Sample e.g. extract a representative data
 * Summary e.g. show summary stats like mean
 
-4. **Explore - "I don't know, what I don't know"**
+**Explore - "I don't know, what I don't know"**
 * Why do visual exploration?
 * Understand Data Structure & Types
 * Explore single variable graphs - (Quantitative, Categorical)
 * Explore dual variable graphs - (Q & Q, Q & C, C & C)
 * Explore multi variable graphs
 
-5. **Model** \- "All models are wrong, Some of them are useful"
+**Model** \- "All models are wrong, Some of them are useful"
 * The power and limits of models
 * Tradeoff between Prediction Accuracy and Model Interpretability
 * Assessing Model Accuracy
 * Regression models (Simple, Multiple)
 * Classification model
 
-6. **Insight** \- "The goal is to turn data into insight"
+**Insight** \- "The goal is to turn data into insight"
 * Why do we need to communicate insight?
 * Types of communication - Exploration vs. Explanation
 * Explanation: Telling a story with data
