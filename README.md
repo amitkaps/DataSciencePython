@@ -4,11 +4,12 @@ An Introduction workshop on doing Data Science using Python Data stack
 
 Main Objectives of the workshop:
 
-1) What is data analysis?
-2) How to approach a data analysis problem?
-3) What are the various questions one can ask given data? 4) How to perform data analysis and gain insights?.
+1. What is data analysis?
+2. How to approach a data analysis problem?
+3. What are the various questions one can ask given data? 
+4. How to perform data analysis and gain insights?.
 
-By the end of the workshop, the attendees should be able to take a dataset and be confident to perform data analysis in a scientific manner .
+By the end of the workshop, the attendees should be able to take a dataset and be confident to perform data analysis in a scientific manner using Python.
 
 The following steps need to be followed to understand how to do data analysis/data analytics
 
@@ -73,8 +74,4 @@ In this workshop, we take a dataset and go through many of the steps listed abov
 
 Instead of introducing libraries, our approach is to introduce the problem and provide the approach on how to solve it. As we go about solving the problem(s), we will introduce a number of libraries commonly used in the Python data stack (`numpy`, `pandas`, `matplotlib`, `seaborn`, `scipy` etc).
 
-The repository has instructions on what packages to install and the data we would be using for the workshop.
-
-From our prior experience, attendees have been able to install the requirements on Windows, Linux and Mac without any issue.
-
-We strongly advise attendees to install the requirements prior to the workshop. If faced with a bug or challenge, please submit an issue on the repo.
+The repository has instructions on what packages to install and the data we would be using for the workshop. Please see the [installation](installation.md) file for detailed installation instructions. From our prior experience, attendees have been able to install the requirements on Windows, Linux and Mac without any issue. We strongly advise attendees to install the requirements prior to the workshop. If faced with a bug or challenge, please submit an issue on the repo.
