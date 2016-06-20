@@ -20,5 +20,16 @@ Please run the below commands from your command line interface
 
 ```conda install seaborn```
 
+## Data for the workshop
+Please run the below commands from your command line interface
+
+```git clone https://github.com/amitkaps/DataSciencePython.git```
+
+If the participant does not have git, please download the repo. Please navigate to:
+https://github.com/amitkaps/DataSciencePython
+
+And there's a button: `clone or download`. Please download the files.
+
+
 ## Python Basics
 If you want to start learning / brushup your basics python programming skills, here is the material you can use - http://anandology.com/python-practice-book/getting-started.html
