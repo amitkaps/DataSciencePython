@@ -1,6 +1,4 @@
-# DataSciencePython
-
-An Introduction workshop on doing Data Science using Python Data stack
+# Introduction to Data Science using PyData Stack
 
 Main Objectives of the workshop:
 
@@ -74,4 +72,9 @@ In this workshop, we take a dataset and go through many of the steps listed abov
 
 Instead of introducing libraries, our approach is to introduce the problem and provide the approach on how to solve it. As we go about solving the problem(s), we will introduce a number of libraries commonly used in the Python data stack (`numpy`, `pandas`, `matplotlib`, `seaborn`, `scipy` etc).
 
-The repository has instructions on what packages to install and the data we would be using for the workshop. Please see the [installation](installation.md) file for detailed installation instructions. From our prior experience, attendees have been able to install the requirements on Windows, Linux and Mac without any issue. We strongly advise attendees to install the requirements prior to the workshop. If faced with a bug or challenge, please submit an issue on the repo.
+The repository has instructions on what packages to install and the data we would be using for the workshop. Please see the [installation](installation.md) file for detailed installation instructions. That also has instructions on how to run a script to check if the required packages are installed.  From our prior experience, attendees have been able to install the requirements on Windows, Linux and Mac without any issue. We strongly advise attendees to install the requirements prior to the workshop. If faced with a bug or challenge, please submit an issue on the repo.
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Introduction to Data Science in Python</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://twitter.com/amitkaps/" property="cc:attributionName" rel="cc:attributionURL">Amit Kapoor</a> , <a xmlns:cc="http://creativecommons.org/ns#" href="https://twitter.com/bargava/" property="cc:attributionName" rel="cc:attributionURL">Bargava</a> and <a xmlns:cc="http://creativecommons.org/ns#" href="https://twitter.com/nischalhp/" property="cc:attributionName" rel="cc:attributionURL">Nischal</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
