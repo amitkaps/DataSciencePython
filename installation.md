@@ -34,7 +34,7 @@ And there's a button: `clone or download`. Please download the files.
 
 To test your installation, change to the tutorial directory, and run:
 
-    $ python check.env
+    $ python check_env.py
 
 If the required packages are present, you will see the message:
 
